@@ -1,0 +1,17 @@
+/* Resize the slides to fit on my trust 12 inch powerbook */
+body {
+  height: 920px;
+  overflow: hidden;
+}
+body #preso { 
+   width: 1000px;
+   height: 740px;
+}
+body #footer { 
+   position: relative;
+   top: -44px;
+   padding: 2px 12px;
+   width: 996px;
+   height: 18px;
+   border-bottom: 50px solid #fff;
+}
